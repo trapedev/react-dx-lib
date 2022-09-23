@@ -2,19 +2,19 @@
 
 ## 目次
 
-[グリッド（Grid）](#グリッドgrid)
+### [グリッド（Grid）](#グリッドgrid)
 
 > [ガイド（Guides）](#ガイドguides)
 >
 > [API リファレンス（API Reference）](#api-リファレンスapi-reference)
 
-[チャート（Chart）](#チャートchart)
+### [チャート（Chart）](#チャートchart)
 
 > [ガイド（Guides）](#ガイドguides-1)
 >
 > [API リファレンス（API Reference）](#api-リファレンスapi-reference-1)
 
-[スケジューラ（Scheduler）](#スケジューラscheduler)
+### [スケジューラ（Scheduler）](#スケジューラscheduler)
 
 > [ガイド（Guides）](#ガイドguides-2)
 >
