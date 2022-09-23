@@ -26,7 +26,6 @@
 >
 > - [はじめに（Getting Started）](./grid/guides/GettingStarted.md)
 > - [プラグインの概要（Plugin Overview）]()
-> - [（Plugin Overview）]()
 > - [（Fundamentals）](./grid/guides/Fundamentals.md)
 > - [（Controlled (Stateless) and Uncontrolled (Stateful) Modes）]()
 > - [（Data Accessors）]()
