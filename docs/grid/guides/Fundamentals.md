@@ -1,4 +1,4 @@
-# Fundamentals
+# [Fundamentals](https://devexpress.github.io/devextreme-reactive/react/grid/docs/guides/fundamentals/)
 
 グリッドコンポーネントは、rows プロパティで指定されたデータを表示します。また、columns プロパティを指定して、グリッドがどの行フィールドに対して列を作成するかを定義する必要があります。
 
