@@ -2,19 +2,23 @@
 
 ## 目次
 
-[グリッド（Grid）]()
+[グリッド（Grid）](#グリッドgrid)
 
-[チャート（Chart）]()
+> [ガイド（Guides）]()
+>
+> [API リファレンス（API Reference）]()
 
-[スケジューラ（Scheduler）]()
+[チャート（Chart）](#チャートchart)
+
+[スケジューラ（Scheduler）](#スケジューラscheduler)
 
 ## グリッド（Grid）
 
-> ガイド（Guides）
->
+### ガイド（Guides）
+
 > - [はじめに](./grid/guides/GettingStarted.md)
->
-> API リファレンス（API Reference）
+
+### API リファレンス（API Reference）
 
 ## チャート（Chart）
 
