@@ -10,7 +10,15 @@
 
 [チャート（Chart）](#チャートchart)
 
+> [ガイド（Guides）](#ガイドguides-1)
+>
+> [API リファレンス（API Reference）](#api-リファレンスapi-reference-1)
+
 [スケジューラ（Scheduler）](#スケジューラscheduler)
+
+> [ガイド（Guides）](#ガイドguides-2)
+>
+> [API リファレンス（API Reference）](#api-リファレンスapi-reference-2)
 
 ## グリッド（Grid）
 
